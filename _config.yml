@@ -1,0 +1,23 @@
+name: foodie
+favicon: null
+layout_spectrum: 0.5355390582699329
+typography_spectrum: 0.6999510924797505
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6023784284479916
+  lightness: 0.5456057474948466
+  saturation: 0.3177885713521391
+  rhythmicContrast: 0.8512331293895841
+purpose: []
